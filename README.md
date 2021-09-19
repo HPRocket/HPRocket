@@ -14,4 +14,6 @@ Game Development:
 ```
 
 Most of my repositories are private, so you probably won't see most of my work here.
-Contact me on Discord if you need anything! `HP Rocket#8660`
+
+Contact me on Discord if you need anything!
+`HP Rocket#8660`
