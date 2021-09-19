@@ -12,3 +12,5 @@ Backend:
 Game Development:
 - Roblox (Lua)
 ```
+
+Most of my repositories are private, so you probably won't see most of my work here.
