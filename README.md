@@ -1,5 +1,5 @@
 ## HP Rocket
-Hey there! I'm a self-taught software developer working on small projects.
+Hey there! I'm a self-taught software developer working on freelance projects.
 
 ```
 Frontend:
