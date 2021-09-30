@@ -11,6 +11,7 @@ Backend:
 
 Game Development:
 - Roblox (Lua)
+- Unity (C#) [In the process of learning!]
 ```
 
 Most of my repositories are private, so you probably won't see most of my work here.
